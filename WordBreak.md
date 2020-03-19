@@ -1,6 +1,7 @@
 ## World Break II 140
 
 Using DFS and DP for the solution:
+
 ```cpp
 class Solution {
 public:
@@ -19,7 +20,6 @@ public:
         
         for(int i = start; i < s.length() && str.length()<=max;i++){
             str+=(s[i]);
-            cout<<str<<endl;
             if(wordDict.find(str) == wordDict.end())continue;
             if(i == s.length()-1){
                 umap[start].push_back(str);
@@ -27,7 +27,6 @@ public:
             else{
                 vector<string>path = dfs(s,i+1,max,wordDict,umap);
                 for(auto &index:path){
-                    //cout<<index<<endl;
                     umap[start].push_back(str+" "+index);
                 }
             }
@@ -36,7 +35,6 @@ public:
     }
     
     vector<string> wordBreak(string s, vector<string>& wordDict) {
-       // if(s.length() ==0 || wordDict.size() == 0);
         unordered_set<string>uset;
         for(auto &it:wordDict){
             uset.insert(it);
