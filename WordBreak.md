@@ -1,7 +1,7 @@
 ## World Break II 140
 
 Using DFS and DP for the solution:
-'''
+```cpp
 class Solution {
 public:
      int findMax(vector<string>&dict){
@@ -47,5 +47,5 @@ public:
     }
     
 };
-'''
+```
     
