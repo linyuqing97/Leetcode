@@ -1,7 +1,7 @@
 # WordBreak 139 [leetcode link](https://leetcode.com/problems/word-break/) 
 
 ## Recursion with memoization
-'''cpp
+```cpp
 class Solution {
 public:
     int findMax(vector<string>&wordDict){
@@ -38,4 +38,4 @@ public:
         
     }
 };
-'''
+```
