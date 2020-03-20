@@ -2,8 +2,11 @@
 ## Here I would post some of my solutions to leetcode problems
 
 ### DP Problem
-1. [Wordbreak 139](https://linyuqing97.github.io/Leetcode/WordBreak)
-2. [WordbreakII 140](https://linyuqing97.github.io/Leetcode/WordBreakII)
-3. [nextPermutation 31](https://linyuqing97.github.io/Leetcode/nextPermutation)
+139. [Wordbreak 139](https://linyuqing97.github.io/Leetcode/WordBreak)
+140. [WordbreakII 140](https://linyuqing97.github.io/Leetcode/WordBreakII)
 
+### two pointers
+31. [nextPermutation](https://linyuqing97.github.io/Leetcode/nextPermutation)
 
+### backtracking
+46. [permutation](https://linyuqing97.github.io/Leetcode/Permutation)
