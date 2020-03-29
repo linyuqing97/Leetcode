@@ -4,7 +4,7 @@
 Using two pointers
     1: find the first position a[i] that was less than the it's consecutive position a[i+1], start from the end of the array.
     2: reverse all numbers come after the selected index( make it the next permutation)
-
+m
 ```cpp
 class Solution {
 public:
