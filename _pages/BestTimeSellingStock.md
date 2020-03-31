@@ -1,3 +1,8 @@
+---
+permalink: /BestTimeSellingStock/
+title: "Best Time Selling Stock"
+---
+
 # Best Time Selling Stock [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 ```cpp
