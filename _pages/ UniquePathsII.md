@@ -1,5 +1,5 @@
 ---
-permalink: /UniquePathII/
+permalink: /UniquePathsII/
 title: "Unique Path II"
 ---
 # 63  Unique Paths II [leetcode](https://leetcode.com/problems/unique-paths-ii/)

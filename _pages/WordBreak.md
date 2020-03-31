@@ -1,4 +1,9 @@
-# WordBreak 139 [leetcode link](https://leetcode.com/problems/word-break/) 
+---
+permalink: /WordBreak/
+title: "Word Break"
+---
+
+# [leetcode link](https://leetcode.com/problems/word-break/) 
 
 ## Recursion with memoization
 ```cpp

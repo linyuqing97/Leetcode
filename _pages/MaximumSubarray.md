@@ -1,10 +1,10 @@
 ---
 permalink: /MaximumSubarray/
-#title: "Maximum Subarray"
+title: "Maximum Subarray"
 ---
 
 
-# Maximum Subarray [leetcode](https://leetcode.com/problems/maximum-subarray/)
+## [leetcode](https://leetcode.com/problems/maximum-subarray/)
 
 ### First approch: Greedy
 ```cpp

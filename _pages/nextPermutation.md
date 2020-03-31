@@ -1,4 +1,9 @@
-# Next Permutation
+---
+permalink: /NextPermutation/
+title: "Next Permutation"
+---
+
+
 ## [leetcode link] (https://leetcode.com/problems/next-permutation/)
 
 Using two pointers

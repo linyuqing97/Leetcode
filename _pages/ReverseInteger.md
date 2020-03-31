@@ -1,4 +1,9 @@
-#Reverse Integer [leetcode link](https://leetcode.com/problems/reverse-integer/)
+---
+permalink: /ReverseInteger/
+title: "Reverse Integer"
+---
+
+[leetcode link](https://leetcode.com/problems/reverse-integer/)
 ```cpp
 class Solution {
 public:

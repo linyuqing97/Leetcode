@@ -1,4 +1,8 @@
-# 46 Permutation [leetcode link](https://leetcode.com/problems/permutations/)
+---
+permalink: /Permutation/
+title: "Permutation"
+---
+# [leetcode link](https://leetcode.com/problems/permutations/)
 
 ## Using backtrack with set
 

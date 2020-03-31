@@ -1,5 +1,9 @@
+---
+permalink: /MinimumPathSum/
+title: "Minimum Path Sum"
+---
 
-# Minimum Path Sum
+
 
 DP solution with O(1)space and O(mn) time complexity
 

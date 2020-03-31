@@ -1,4 +1,8 @@
-## World Break II 140
+---
+permalink: /WordBreakII/
+title: "Word Break II"
+---
+
 
 Using DFS and DP for the solution:
 
