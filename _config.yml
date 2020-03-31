@@ -13,15 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "My Awesome Site"
+title: "Yuqing's Diary"
 email: "linyuqing97@gmail.com"
 repository: "linyuqing97/leetcode"
 description: "This is my personal profile website!!!"
+logo: "/assets/images/myLogo.png"
 
 twitter_username: yuqinglin
 github_username: linyuqing97
 minimal_mistakes_skin: air
 search: true
+breadcrumbs: true
 
 # Build settings
 markdown: kramdown
@@ -35,15 +37,6 @@ timezone:  https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 #Site mashhead title
 masthead_title: Yuqing Lin
 
-#header 
-excerpt: "This post should [...]"
-header:
-  overlay_image: /assets/images/FirstHeader.png
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
 
 include:
   - _pages
@@ -71,12 +64,13 @@ plugins:
 
 author:
   name   : "Yuqing Lin"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/myLogo.png"
   bio    : "Computer Science Student from binghamton"
+  location: New York 
   links:
-    - label: "Website"
+    - label: "Resume"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: /assets/docs/Resume.pdf
   # - label: "Twitter"
   #    icon: "fab fa-fw fa-twitter-square"
   #    url: "https://twitter.com/"
@@ -89,16 +83,17 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+  #  - label: "Twitter"
+   #   icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+      url: "https://github.com/linyuqing97"
+    
+#   - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/"
+  
 defaults:
   # _posts
   - scope:
@@ -117,7 +112,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      #author_profile: true
 
 category_archive:
   type: liquid
