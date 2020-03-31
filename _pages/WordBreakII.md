@@ -1,7 +1,7 @@
 ---
 permalink: /WordBreakII/
 title: "Word Break II"
-clase: wide
+classes: wide
 ---
 
 
