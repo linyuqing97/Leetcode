@@ -36,8 +36,14 @@ timezone:  https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 masthead_title: Yuqing Lin
 
 #header 
+excerpt: "This post should [...]"
 header:
-  teaser: /assets/images/FirstHeader.png
+  overlay_image: /assets/images/FirstHeader.png
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
 
 include:
   - _pages
