@@ -1,9 +1,12 @@
 main:
+  - title: "Home"
+    url: /
   - title: "Posts"
     url: /posts/
   - title: "Leetcode"
     url: /leetcode/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "About Me"
     url: /about/
+  - title: "Resume"
+    url: /doc/Resume.pdf/
+ 
