@@ -16,8 +16,7 @@
 title: "My Awesome Site"
 email: "linyuqing97@gmail.com"
 repository: "linyuqing97/leetcode"
-description: >- # this means to ignore newlines until "baseurl:"
-"This is my personal profile website!!!"
+description: "This is my personal profile website!!!"
 
 twitter_username: yuqinglin
 github_username: linyuqing97
