@@ -1,6 +1,7 @@
 ---
 permalink: /ReverseInteger/
 title: "Reverse Integer"
+classes: wide
 ---
 
 [leetcode link](https://leetcode.com/problems/reverse-integer/)

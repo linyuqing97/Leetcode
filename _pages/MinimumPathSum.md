@@ -1,6 +1,7 @@
 ---
 permalink: /MinimumPathSum/
 title: "Minimum Path Sum"
+classes: wide
 ---
 
 

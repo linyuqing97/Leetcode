@@ -1,6 +1,7 @@
 ---
 permalink: /MaximumSubarray/
 title: "Maximum Subarray"
+classes: wide
 ---
 
 

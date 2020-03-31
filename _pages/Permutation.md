@@ -1,6 +1,7 @@
 ---
 permalink: /Permutation/
 title: "Permutation"
+classes: wide
 ---
 # [leetcode link](https://leetcode.com/problems/permutations/)
 

@@ -1,6 +1,7 @@
 ---
 permalink: /LongestSubstringWithoutRepeatingCharacters/
 title: "Longest Substring Without Repeating Characters"
+classes: wide
 ---
 
 

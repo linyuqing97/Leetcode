@@ -1,6 +1,7 @@
 ---
 permalink: /WordBreak/
 title: "Word Break"
+classes: wide
 ---
 
 # [leetcode link](https://leetcode.com/problems/word-break/) 

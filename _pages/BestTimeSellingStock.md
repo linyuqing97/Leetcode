@@ -1,6 +1,7 @@
 ---
 permalink: /BestTimeSellingStock/
 title: "Best Time Selling Stock"
+classes: wide
 ---
 
 [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)

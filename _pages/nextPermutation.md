@@ -1,6 +1,7 @@
 ---
 permalink: /NextPermutation/
 title: "Next Permutation"
+classes: wide
 ---
 
 
