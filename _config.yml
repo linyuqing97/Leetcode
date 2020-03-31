@@ -70,7 +70,7 @@ author:
   links:
     - label: "Resume"
       icon: "fas fa-fw fa-link"
-      url: /assets/docs/Resume.pdf
+      url: Leetcode/assets/docs/Resume.pdf
   # - label: "Twitter"
   #    icon: "fab fa-fw fa-twitter-square"
   #    url: "https://twitter.com/"
