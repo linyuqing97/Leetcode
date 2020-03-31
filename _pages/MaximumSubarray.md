@@ -1,5 +1,5 @@
 ---
-permalink: /maximum-subarray/
+permalink: /MaximumSubarray/
 #title: "Maximum Subarray"
 ---
 
