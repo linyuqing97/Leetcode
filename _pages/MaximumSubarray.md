@@ -1,3 +1,9 @@
+---
+permalink: /maximum-subarray/
+#title: "Maximum Subarray"
+---
+
+
 # Maximum Subarray [leetcode](https://leetcode.com/problems/maximum-subarray/)
 
 ### First approch: Greedy

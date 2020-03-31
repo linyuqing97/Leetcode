@@ -1,3 +1,7 @@
+---
+permalink: /UniquePathII/
+title: "Unique Path II"
+---
 # 63  Unique Paths II [leetcode](https://leetcode.com/problems/unique-paths-ii/)
 
 Using clear dp solution to this, however when everytime that grid has obstacle put a 0 there

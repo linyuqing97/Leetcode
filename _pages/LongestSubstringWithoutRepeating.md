@@ -1,3 +1,8 @@
+---
+permalink: /longest-substring-without-repeating-characters/
+title: "Longest Substring Without Repeating Characters"
+---
+
 # Longest Substring Without Repeating Characters
 
 [link](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/779/)
