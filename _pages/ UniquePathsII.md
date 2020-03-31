@@ -1,6 +1,7 @@
 ---
 permalink: /UniquePathsII/
 title: "Unique Path II"
+classes: wide
 ---
 # 63  Unique Paths II [leetcode](https://leetcode.com/problems/unique-paths-ii/)
 
