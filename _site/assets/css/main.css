@@ -254,11 +254,11 @@ a:hover { color: #2b2f35; outline: 0; }
 
 /* buttons */
 /* code */
-tt, code, kbd, samp, pre { font-family: Monaco, Consolas, "Lucida Console", monospace; }
+tt, code, kbd, samp, pre { font-family: Monaco, Consolas, "Lucida Console", monospace; font-size: 0.9em; }
 
 pre { overflow-x: auto; /* add scrollbars to wide code blocks*/ }
 
-p > code, a > code, li > code, figcaption > code, td > code { padding-top: 0.1rem; padding-bottom: 0.1rem; font-size: 0.8em; background: #fafafa; border-radius: 4px; }
+p > code, a > code, li > code, figcaption > code, td > code { padding-top: 0.1rem; padding-bottom: 0.1rem; font-size: 0.9em; background: #fafafa; border-radius: 4px; }
 p > code:before, p > code:after, a > code:before, a > code:after, li > code:before, li > code:after, figcaption > code:before, figcaption > code:after, td > code:before, td > code:after { letter-spacing: -0.2em; content: "\00a0"; /* non-breaking space*/ }
 
 /* horizontal rule */
@@ -659,9 +659,9 @@ tr, td, th { vertical-align: middle; }
 .toc__menu li ul li ul li ul li ul li ul > li a { padding-left: 3.25rem; }
 
 /* ========================================================================== FOOTER ========================================================================== */
-.page__footer { clear: both; float: left; margin-left: 0; margin-right: 0; width: 100%; clear: both; margin-top: 3em; color: #393e46; -webkit-animation: intro 0.3s both; animation: intro 0.3s both; -webkit-animation-delay: 0.45s; animation-delay: 0.45s; background-color: #0092ca; }
+.page__footer { clear: both; float: left; margin-left: 0; margin-right: 0; width: 100%; clear: both; margin-top: 3em; color: #393e46; -webkit-animation: intro 0.3s both; animation: intro 0.3s both; -webkit-animation-delay: 0.45s; animation-delay: 0.45s; background-color: transparent; text-align: center; }
 .page__footer::after { clear: both; content: ""; display: table; }
-.page__footer footer { clear: both; margin-left: auto; margin-right: auto; margin-top: 2em; max-width: 100%; padding: 0 1em 2em; }
+.page__footer footer { color: gray; clear: both; margin-left: auto; margin-right: auto; margin-top: 2em; max-width: 100%; padding: 0 1em 2em; }
 .page__footer footer::after { clear: both; content: ""; display: table; }
 @media (min-width: 80em) { .page__footer footer { max-width: 1280px; } }
 .page__footer a { color: inherit; text-decoration: none; }

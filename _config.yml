@@ -1,18 +1,5 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# config for yuqing's diary
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: "Yuqing's Diary"
 email: "linyuqing97@gmail.com"
 repository: "linyuqing97/leetcode"
@@ -65,7 +52,7 @@ plugins:
 author:
   name   : "Yuqing Lin"
   avatar : "/assets/images/myLogo.png"
-  bio    : "Computer Science Student from binghamton"
+  bio    : "Computer Science Student from Binghamton"
   location: New York 
   links:
     - label: "Resume"
@@ -82,13 +69,14 @@ author:
    #   url: "https://instagram.com/"
 
 footer:
+  
   links:
   #  - label: "Twitter"
    #   icon: "fab fa-fw fa-twitter-square"
     #  url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/linyuqing97"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/linyuqing97"
     
 #   - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
@@ -104,7 +92,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
