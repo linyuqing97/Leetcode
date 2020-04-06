@@ -10,21 +10,18 @@ tags:
 
 [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
-```cpp
+```java
 class Solution {
-public:
-    int maxProfit(vector<int>& prices) {
-        int minPrice = INT_MAX;
-        int maxPro = 0;
-        for(int i = 0;i<prices.size();i++){
-            if(prices[i]<minPrice){
-                minPrice = min(minPrice,prices[i]);
-            }
-            maxPro = max(maxPro,prices[i]-minPrice);
+    public int maxSubArray(int[] nums) {
+        int globalSum = nums[0];int curSum=nums[0];
+        for(int i = 1;i<nums.length;i++){
+            curSum = Math.max(nums[i],curSum+nums[i]);
+            if(curSum > globalSum)
+            globalSum = Math.max(globalSum,curSum);
         }
-        return maxPro;
+        return globalSum;
     }
-};
+}
 ```
 The idea is to constanly update both buying price and max profits
 Don't overthink the problem.
