@@ -5,6 +5,7 @@ categories:
   - Leetcode 
 tags:
   - Dynamic Programming
+  - Medium
 
 classes: wide
 ---

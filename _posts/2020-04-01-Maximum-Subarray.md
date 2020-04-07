@@ -5,6 +5,7 @@ categories:
   - Leetcode 
 tags:
   - Array
+  - Easy
 
 ---
 
