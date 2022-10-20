@@ -13,7 +13,7 @@ gem "kramdown", ">= 2.3.0"
 group :jekyll_plugins do
   gem "jekyll-remote-theme"
   gem "minimal-mistakes-jekyll"
-  gem "nokogiri", "~> 1.10.4"
+  gem "nokogiri", "~> 1.13.9"
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
   gem "jekyll-gist"
